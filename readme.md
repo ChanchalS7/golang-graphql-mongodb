@@ -7,7 +7,7 @@
 1. Create a new folder for the Project
 `mkdir go-graphql-mongodb`
 2. Mod init your project, give it whatever name you like
-`go mod init github.com/ChachalS7/go-graphql-mongodb`
+`go mod init github.com/ChanchalS7/go-graphql-mongodb`
 3. Get gql gen for your project
 `go get github.com/99designs/gqlgen`
 4. Add gqlgen to tools.go
